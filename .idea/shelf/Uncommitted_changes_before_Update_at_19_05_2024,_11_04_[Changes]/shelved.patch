@@ -1,0 +1,81 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"9b700896-7dee-405c-8b3c-2e421fae2747\" name=\"Changes\" comment=\"woof meow meow woof woof\">\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/src/Data/DataGetter.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/Data/DataGetter.java\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/src/Data/DatabaseSingleton.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/Data/DatabaseSingleton.java\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"Class\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <favorite-branches>\n      <branch-storage>\n        <map>\n          <entry type=\"REMOTE\">\n            <value>\n              <list>\n                <branch-info repo=\"$PROJECT_DIR$\" source=\"origin/sqlQueryTest\" />\n              </list>\n            </value>\n          </entry>\n        </map>\n      </branch-storage>\n    </favorite-branches>\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\n      <map>\n        <entry key=\"$PROJECT_DIR$\" value=\"77d2f525463da486454b8b9f7c020130ac972e2d\" />\n      </map>\n    </option>\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"JsBowerSettings\">\n    <bower-package value=\"\" />\n    <bower.json value=\"\" />\n  </component>\n  <component name=\"MarkdownSettingsMigration\">\n    <option name=\"stateVersion\" value=\"1\" />\n  </component>\n  <component name=\"ProjectColorInfo\">{\n  &quot;associatedIndex&quot;: 3\n}</component>\n  <component name=\"ProjectId\" id=\"2drTimOiNSYVFBrO8m1HRx2dPgX\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\"><![CDATA[{\n  \"keyToString\": {\n    \"Application.DataGetter.executor\": \"Run\",\n    \"Application.mapGUI.executor\": \"Run\",\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\n    \"git-widget-placeholder\": \"sqlQueryTest\",\n    \"kotlin-language-version-configured\": \"true\",\n    \"last_opened_file_path\": \"/Users/gregvadasz/Desktop/transitor\",\n    \"node.js.detected.package.eslint\": \"true\",\n    \"node.js.detected.package.tslint\": \"true\",\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\n    \"nodejs_package_manager_path\": \"npm\",\n    \"project.structure.last.edited\": \"Modules\",\n    \"project.structure.proportion\": \"0.15\",\n    \"project.structure.side.proportion\": \"0.2\",\n    \"settings.editor.selected.configurable\": \"settings.javascript.prettier\",\n    \"vue.rearranger.settings.migration\": \"true\"\n  }\n}]]></component>\n  <component name=\"RecentsManager\">\n    <key name=\"MoveFile.RECENT_KEYS\">\n      <recent name=\"C:\\Users\\geveg\\OneDrive\\Desktop\\schoo\\transitor\\lib\" />\n    </key>\n  </component>\n  <component name=\"SharedIndexes\">\n    <attachedChunks>\n      <set>\n        <option value=\"jdk-21.0.1-openjdk-21.0.1-4caba194b151-9b16c6e2\" />\n      </set>\n    </attachedChunks>\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"9b700896-7dee-405c-8b3c-2e421fae2747\" name=\"Changes\" comment=\"\" />\n      <created>1710765326754</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1710765326754</updated>\n      <workItem from=\"1710765327865\" duration=\"141000\" />\n      <workItem from=\"1713969232926\" duration=\"1349000\" />\n      <workItem from=\"1714301748126\" duration=\"6558000\" />\n      <workItem from=\"1714313432515\" duration=\"1322000\" />\n      <workItem from=\"1714322777511\" duration=\"3258000\" />\n      <workItem from=\"1714408284333\" duration=\"5047000\" />\n      <workItem from=\"1714481616041\" duration=\"6649000\" />\n      <workItem from=\"1714829284099\" duration=\"4298000\" />\n      <workItem from=\"1714845314342\" duration=\"720000\" />\n      <workItem from=\"1715171616669\" duration=\"141000\" />\n      <workItem from=\"1715680298968\" duration=\"42000\" />\n      <workItem from=\"1715680405667\" duration=\"1193000\" />\n      <workItem from=\"1715847644810\" duration=\"2433000\" />\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"working on pulling from mysql\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1714311916441</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1714311916441</updated>\n    </task>\n    <task id=\"LOCAL-00002\" summary=\"working on pulling from mysql\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1714432008878</created>\n      <option name=\"number\" value=\"00002\" />\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1714432008878</updated>\n    </task>\n    <task id=\"LOCAL-00003\" summary=\"working on pulling from mysql\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1714496190328</created>\n      <option name=\"number\" value=\"00003\" />\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1714496190328</updated>\n    </task>\n    <task id=\"LOCAL-00004\" summary=\"woof meow meow woof woof\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1714838161315</created>\n      <option name=\"number\" value=\"00004\" />\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1714838161315</updated>\n    </task>\n    <task id=\"LOCAL-00005\" summary=\"woof meow meow woof woof\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1714838416980</created>\n      <option name=\"number\" value=\"00005\" />\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1714838416980</updated>\n    </task>\n    <task id=\"LOCAL-00006\" summary=\"woof meow meow woof woof\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1714845201503</created>\n      <option name=\"number\" value=\"00006\" />\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1714845201503</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"7\" />\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <MESSAGE value=\"working on pulling from mysql\" />\n    <MESSAGE value=\"woof meow meow woof woof\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"woof meow meow woof woof\" />\n  </component>\n  <component name=\"XSLT-Support.FileAssociations.UIState\">\n    <expand />\n    <select />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision da6b1c64e60828c04eba78821914186a7b3d9a1b)
++++ b/.idea/workspace.xml	(date 1715859214318)
+@@ -6,8 +6,6 @@
+   <component name="ChangeListManager">
+     <list default="true" id="9b700896-7dee-405c-8b3c-2e421fae2747" name="Changes" comment="woof meow meow woof woof">
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/Data/DataGetter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Data/DataGetter.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/Data/DatabaseSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Data/DatabaseSingleton.java" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -74,7 +72,7 @@
+     "project.structure.last.edited": "Modules",
+     "project.structure.proportion": "0.15",
+     "project.structure.side.proportion": "0.2",
+-    "settings.editor.selected.configurable": "settings.javascript.prettier",
++    "settings.editor.selected.configurable": "com.intellij.platform.ide.impl.presentationAssistant.PresentationAssistantConfigurable",
+     "vue.rearranger.settings.migration": "true"
+   }
+ }]]></component>
+@@ -82,6 +80,26 @@
+     <key name="MoveFile.RECENT_KEYS">
+       <recent name="C:\Users\geveg\OneDrive\Desktop\schoo\transitor\lib" />
+     </key>
++  </component>
++  <component name="RunManager">
++    <configuration name="mapGUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="Gui.mapGUI" />
++      <module name="transitor" />
++      <extension name="coverage">
++        <pattern>
++          <option name="PATTERN" value="Gui.*" />
++          <option name="ENABLED" value="true" />
++        </pattern>
++      </extension>
++      <method v="2">
++        <option name="Make" enabled="true" />
++      </method>
++    </configuration>
++    <recent_temporary>
++      <list>
++        <item itemvalue="Application.mapGUI" />
++      </list>
++    </recent_temporary>
+   </component>
+   <component name="SharedIndexes">
+     <attachedChunks>
+@@ -110,7 +128,7 @@
+       <workItem from="1715171616669" duration="141000" />
+       <workItem from="1715680298968" duration="42000" />
+       <workItem from="1715680405667" duration="1193000" />
+-      <workItem from="1715847644810" duration="2433000" />
++      <workItem from="1715847644810" duration="4644000" />
+     </task>
+     <task id="LOCAL-00001" summary="working on pulling from mysql">
+       <option name="closed" value="true" />
+@@ -160,7 +178,15 @@
+       <option name="project" value="LOCAL" />
+       <updated>1714845201503</updated>
+     </task>
+-    <option name="localTasksCounter" value="7" />
++    <task id="LOCAL-00007" summary="woof meow meow woof woof">
++      <option name="closed" value="true" />
++      <created>1715853827083</created>
++      <option name="number" value="00007" />
++      <option name="presentableId" value="LOCAL-00007" />
++      <option name="project" value="LOCAL" />
++      <updated>1715853827083</updated>
++    </task>
++    <option name="localTasksCounter" value="8" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">

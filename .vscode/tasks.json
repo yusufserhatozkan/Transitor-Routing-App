@@ -1,0 +1,136 @@
+// {
+//     "version": "2.0.0",
+//     "tasks": [
+//         {
+//             "label": "compile classes",
+//             "type": "shell",
+//             "command": "javac",
+//             "args": [
+//                 "-d",
+//                 "bin/classes",
+//                 "-cp",
+//                 "lib/testfx-core-4.0.16-alpha.jar:lib/testfx-junit5-4.0.16-alpha.jar:lib/openjfx-monocle-jdk-11+26.jar:lib/javafx-base.jar:lib/javafx-controls.jar:lib/javafx-graphics.jar:lib/junit-4.13.2.jar:lib/hamcrest-core-1.3.jar:lib/mockito-core-3.12.4.jar:lib/byte-buddy-1.10.14.jar:lib/byte-buddy-agent-1.10.14.jar:lib/jackson-databind-2.17.0.jar:lib/jackson-core-2.17.0.jar:lib/jackson-annotations-2.17.0.jar:lib/mysql-connector-j-8.3.0.jar",
+//                 "src/**/*.java"
+//             ],
+//             "group": {
+//                 "kind": "build",
+//                 "isDefault": true
+//             },
+//             "problemMatcher": []
+//         },
+//         {
+//             "label": "run tests with coverage",
+//             "type": "shell",
+//             "command": "java",
+//             "args": [
+//                 "-javaagent:lib/jacocoagent.jar=destfile=jacoco.exec,append=false",
+//                 "-cp",
+//                 "bin/classes:lib/testfx-core-4.0.16-alpha.jar:lib/testfx-junit5-4.0.16-alpha.jar:lib/openjfx-monocle-jdk-11+26.jar:lib/javafx-base.jar:lib/javafx-controls.jar:lib/javafx-graphics.jar:lib/junit-4.13.2.jar:lib/hamcrest-core-1.3.jar:lib/mockito-core-3.12.4.jar:lib/byte-buddy-1.10.14.jar:lib/byte-buddy-agent-1.10.14.jar:lib/jackson-databind-2.17.0.jar:lib/jackson-core-2.17.0.jar:lib/jackson-annotations-2.17.0.jar:lib/mysql-connector-j-8.3.0.jar",
+//                 "org.junit.runner.JUnitCore",
+//                 "Test.DatabaseSingletonTest",
+//                 "Test.DataGetterTest",
+//                 "Test.TripCoordinatesTest",
+//                 "Test.TripDetailTest",                
+//                 "Test.ApiReaderTest",
+//                 "Test.DistanceCalculatorTest"
+//             ],
+//             "group": {
+//                 "kind": "build",
+//                 "isDefault": false
+//             },
+//             "problemMatcher": []
+//         },
+//         {
+//             "label": "generate coverage report",
+//             "type": "shell",
+//             "command": "java",
+//             "args": [
+//                 "-jar",
+//                 "lib/jacococli.jar",
+//                 "report",
+//                 "jacoco.exec",
+//                 "--classfiles",
+//                 "bin/classes",
+//                 "--sourcefiles",
+//                 "src",
+//                 "--html",
+//                 "coverage-report"
+//             ],
+//             "group": {
+//                 "kind": "build",
+//                 "isDefault": false
+//             },
+//             "problemMatcher": []
+//         }
+//     ]
+// }
+
+
+
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "compile classes",
+            "type": "shell",
+            "command": "javac",
+            "args": [
+                "-d",
+                "bin",
+                "-cp",
+                "lib/*",
+                "src/**/*.java",
+                // "src/test/java/**/*.java"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": []
+        },
+        {
+            "label": "run tests with coverage",
+            "type": "shell",
+            "command": "java",
+            "args": [
+                "-javaagent:lib/jacocoagent.jar=destfile=jacoco.exec,append=false",
+                "-cp",
+                "bin:lib/testfx-core-4.0.16-alpha.jar:lib/testfx-junit5-4.0.16-alpha.jar:lib/openjfx-monocle-jdk-11+26.jar:lib/javafx-base.jar:lib/javafx-controls.jar:lib/javafx-graphics.jar:lib/junit-4.13.2.jar:lib/hamcrest-core-1.3.jar:lib/mockito-core-3.12.4.jar:lib/byte-buddy-1.10.14.jar:lib/byte-buddy-agent-1.10.14.jar:lib/jackson-databind-2.17.0.jar:lib/jackson-core-2.17.0.jar:lib/jackson-annotations-2.17.0.jar:lib/mysql-connector-j-8.3.0.jar",
+                "org.junit.runner.JUnitCore",
+                "Test.DatabaseSingletonTest",
+                "Test.DataGetterTest",
+                "Test.TripCoordinatesTest",
+                "Test.TripDetailTest",              
+                "Test.ApiReaderTest",
+                "Test.DistanceCalculatorTest",
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": false
+            },
+            "problemMatcher": []
+        },
+        {
+            "label": "generate coverage report",
+            "type": "shell",
+            "command": "java",
+            "args": [
+                "-jar",
+                "lib/jacococli.jar",
+                "report",
+                "jacoco.exec",
+                "--classfiles",
+                "bin",
+                "--sourcefiles",
+                "src/main/java",
+                "--html",
+                "coverage-report"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": false
+            },
+            "problemMatcher": []
+        }
+    ]
+}

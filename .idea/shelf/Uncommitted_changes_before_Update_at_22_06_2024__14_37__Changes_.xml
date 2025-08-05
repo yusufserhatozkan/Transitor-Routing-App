@@ -1,0 +1,24 @@
+<changelist name="Uncommitted_changes_before_Update_at_22_06_2024,_14_37_[Changes]" date="1719059840050" recycled="true" deleted="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_22_06_2024,_14_37_[Changes]/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Update at 22/06/2024, 14:37 [Changes]" />
+  <binary>
+    <option name="BEFORE_PATH" value="out/production/transitor/Test/AllTests.class" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="out/production/transitor/Data/DataGetter.class" />
+    <option name="AFTER_PATH" value="out/production/transitor/Data/DataGetter.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_22_06_2024,_14_37_[Changes]/DataGetter.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="out/production/transitor/Data/AccessibilityScoreCalculator.class" />
+    <option name="AFTER_PATH" value="out/production/transitor/Data/AccessibilityScoreCalculator.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_22_06_2024,_14_37_[Changes]/AccessibilityScoreCalculator.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="out/production/transitor/Gui/mapGUI.class" />
+    <option name="AFTER_PATH" value="out/production/transitor/Gui/mapGUI.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_22_06_2024,_14_37_[Changes]/mapGUI.class" />
+  </binary>
+</changelist>

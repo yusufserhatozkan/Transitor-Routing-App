@@ -1,0 +1,29 @@
+<changelist name="Uncommitted_changes_before_Update_at_25_05_2024,_18_06_[Changes]" date="1716653213836" recycled="false" toDelete="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_25_05_2024,_18_06_[Changes]/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Update at 25/05/2024, 18:06 [Changes]" />
+  <binary>
+    <option name="BEFORE_PATH" value="out/production/transitor/Data/DatabaseSingleton.class" />
+    <option name="AFTER_PATH" value="out/production/transitor/Data/DatabaseSingleton.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_25_05_2024,_18_06_[Changes]/DatabaseSingleton.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="out/production/transitor/Gui/mapGUI.class" />
+    <option name="AFTER_PATH" value="out/production/transitor/Gui/mapGUI.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_25_05_2024,_18_06_[Changes]/mapGUI.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="out/production/transitor/Gui/MapLoader.class" />
+    <option name="AFTER_PATH" value="out/production/transitor/Gui/MapLoader.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_25_05_2024,_18_06_[Changes]/MapLoader.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="out/production/transitor/Data/TripCoordinates.class" />
+    <option name="AFTER_PATH" value="out/production/transitor/Data/TripCoordinates.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_25_05_2024,_18_06_[Changes]/TripCoordinates.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="out/production/transitor/Data/DataGetter.class" />
+    <option name="AFTER_PATH" value="out/production/transitor/Data/DataGetter.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_25_05_2024,_18_06_[Changes]/DataGetter.class" />
+  </binary>
+</changelist>

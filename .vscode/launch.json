@@ -1,0 +1,88 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "mapGUI",
+            "request": "launch",
+            "mainClass": "Gui.mapGUI",
+            "projectName": "Jan5_348abe9e",
+            "vmArgs": "--module-path /Users/whoohw/dev/dev_downloads/javafx-sdk-21.0.1/lib --add-modules javafx.controls,javafx.fxml,javafx.web --enable-preview --add-opens javafx.base/com.sun.javafx=ALL-UNNAMED  --add-opens javafx.graphics/com.sun.glass.utils=ALL-UNNAMED --add-opens javafx.graphics/com.sun.javafx.tk=ALL-UNNAMED"
+        },
+        {
+            "type": "java",
+            "name": "CustomDijkstra",
+            "request": "launch",
+            "mainClass": "Algorithm.Dijkstra.CustomDijkstra",
+            "projectName": "transitor_9889ec19",
+              "vmArgs": "--module-path /Users/whoohw/dev/dev_downloads/javafx-sdk-21.0.1/lib --add-modules javafx.controls,javafx.fxml,javafx.web --enable-preview --add-opens javafx.base/com.sun.javafx=ALL-UNNAMED  --add-opens javafx.graphics/com.sun.glass.utils=ALL-UNNAMED --add-opens javafx.graphics/com.sun.javafx.tk=ALL-UNNAMED"
+        },
+        {
+            "type": "java",
+            "name": "mapGUI",
+            "request": "launch",
+            "mainClass": "Gui.mapGUI",
+            "projectName": "transitor_6a78f802",
+            "vmArgs": "--module-path /Users/carlbalagtas/Desktop/javafx-sdk-21.0.1/lib  --add-modules javafx.controls,javafx.fxml,javafx.web --enable-preview --add-opens javafx.base/com.sun.javafx=ALL-UNNAMED  --add-opens javafx.graphics/com.sun.glass.utils=ALL-UNNAMED --add-opens javafx.graphics/com.sun.javafx.tk=ALL-UNNAMED"
+        
+        },
+        {
+            "type": "java",
+            "name": "mapGUI",
+            "request": "launch",
+            "mainClass": "Gui.mapGUI",
+            "projectName": "transitor_9889ec19",
+            "vmArgs": "--module-path /Users/carlbalagtas/Desktop/javafx-sdk-21.0.1/lib  --add-modules javafx.controls,javafx.fxml,javafx.web --enable-preview --add-opens javafx.base/com.sun.javafx=ALL-UNNAMED  --add-opens javafx.graphics/com.sun.glass.utils=ALL-UNNAMED --add-opens javafx.graphics/com.sun.javafx.tk=ALL-UNNAMED"
+        },
+        {
+            "type": "java",
+            "name": "DataGetter",
+            "request": "launch",
+            "mainClass": "Data.DataGetter",
+            "projectName": "transitor_93908c27",
+            "vmArgs": "--module-path /Users/carlbalagtas/Desktop/javafx-sdk-21.0.1/lib  --add-modules javafx.controls,javafx.fxml,javafx.web --enable-preview --add-opens javafx.base/com.sun.javafx=ALL-UNNAMED  --add-opens javafx.graphics/com.sun.glass.utils=ALL-UNNAMED --add-opens javafx.graphics/com.sun.javafx.tk=ALL-UNNAMED"
+        
+        },
+        {
+            "type": "java",
+            "name": "DataGetter",
+            "request": "launch",
+            "mainClass": "Data.DataGetter",
+            "projectName": "transitor_37784fc7",
+            "vmArgs": "--module-path /Users/carlbalagtas/Desktop/javafx-sdk-21.0.1/lib  --add-modules javafx.controls,javafx.fxml,javafx.web --enable-preview --add-opens javafx.base/com.sun.javafx=ALL-UNNAMED  --add-opens javafx.graphics/com.sun.glass.utils=ALL-UNNAMED --add-opens javafx.graphics/com.sun.javafx.tk=ALL-UNNAMED"
+        
+        },
+        {
+            "type": "java",
+            "name": "mapGUI",
+            "request": "launch",
+            "mainClass": "Gui.mapGUI",
+            "projectName": "transitor_37784fc7",
+            "vmArgs": "--module-path /Users/carlbalagtas/Desktop/javafx-sdk-21.0.1/lib  --add-modules javafx.controls,javafx.fxml,javafx.web --enable-preview --add-opens javafx.base/com.sun.javafx=ALL-UNNAMED  --add-opens javafx.graphics/com.sun.glass.utils=ALL-UNNAMED --add-opens javafx.graphics/com.sun.javafx.tk=ALL-UNNAMED"
+        },
+        {
+            "type": "java",
+            "name": "mapGUI",
+            "request": "launch",
+            "mainClass": "Gui.mapGUI",
+            "projectName": "transitor_a20cae29",
+            "vmArgs": "--module-path /Users/carlbalagtas/Desktop/javafx-sdk-21.0.1/lib  --add-modules javafx.controls,javafx.fxml,javafx.web --enable-preview --add-opens javafx.base/com.sun.javafx=ALL-UNNAMED  --add-opens javafx.graphics/com.sun.glass.utils=ALL-UNNAMED --add-opens javafx.graphics/com.sun.javafx.tk=ALL-UNNAMED"
+        },
+        {
+            "type": "java",
+            "name": "mapGUI",
+            "request": "launch",
+            "mainClass": "main.hellofx.mapGUI",
+            "projectName": "transitor_a20cae29",
+            "vmArgs": "--module-path /Users/carlbalagtas/Desktop/javafx-sdk-21.0.1/lib  --add-modules javafx.controls,javafx.fxml,javafx.web --enable-preview --add-opens javafx.base/com.sun.javafx=ALL-UNNAMED  --add-opens javafx.graphics/com.sun.glass.utils=ALL-UNNAMED --add-opens javafx.graphics/com.sun.javafx.tk=ALL-UNNAMED"
+        },
+        {
+            "type": "java",
+            "name": "ApiReader",
+            "request": "launch",
+            "mainClass": "main.hellofx.ApiReader",
+            "projectName": "transitor_a20cae29",
+            "vmArgs": "--module-path /Users/carlbalagtas/Desktop/javafx-sdk-21.0.1/lib  --add-modules javafx.controls,javafx.fxml,javafx.web --enable-preview --add-opens javafx.base/com.sun.javafx=ALL-UNNAMED  --add-opens javafx.graphics/com.sun.glass.utils=ALL-UNNAMED --add-opens javafx.graphics/com.sun.javafx.tk=ALL-UNNAMED"
+        }
+    ]
+}

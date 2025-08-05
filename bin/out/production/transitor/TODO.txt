@@ -1,0 +1,39 @@
+1: check if the needed busStop, busRoute, busRouteId, etc. are already retrieved elsewhere in the code - JAN
+    if (true): 
+        calm down
+    else: 
+        code
+
+
+2: connect the retrieved data, so I can construct the correct graph - JAN
+3: store graph in localstorage - JAN
+
+
+4: connect dijkstra to the graph - JAN
+
+
+5: implement a button in the UI to use dijkstra - CARL
+6: connect button so it actually switches between algos (Strategy Pattern) - CARL
+    6.1: Connect to other possibilities (Gergos solution / add button functionality) - CARL / GERGO
+
+
+7: testing - ???
+8: Testing scripts - ???
+
+
+9: Experiments - ???
+10: custom index based on experiments / research 
+    10.1: Select data from geo file - GERGO / ???
+    10.2: Look into accessebility score (how are they usually computed) - reference our idea to that - GERGO / ???
+    10.3: 
+        highest: Hospitals, Jobs, University, Supermarket, frequency of buses for your closest busStop, 
+        medium: Maastricht Center, different buses near you (radius 250m), 
+        lowest: cinema, gym, restaurants, 
+
+11: Shapes - ADRIAN / YUSUF 
+
+
+NOTES: 
+
+Gregs version: 
+one tranfer only and no busStop changes - so no: walk, bus, walk, bus, walk

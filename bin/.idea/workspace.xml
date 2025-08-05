@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9b700896-7dee-405c-8b3c-2e421fae2747" name="Changes" comment="this is the save point">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/transitor/Gui/mapGUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/transitor/Gui/mapGUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Data/DatabaseSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Data/DatabaseSingleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gui/mapGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gui/mapGUI.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/sqlQueryTest" />
+                <branch-info repo="$PROJECT_DIR$" source="origin/jan56" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="jan56" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLabMergeRequestFiltersHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPENED&quot;,
+    &quot;assignee&quot;: {
+      &quot;type&quot;: &quot;org.jetbrains.plugins.gitlab.mergerequest.ui.filters.GitLabMergeRequestsFiltersValue.MergeRequestsMemberFilterValue.MergeRequestsAssigneeFilterValue&quot;,
+      &quot;username&quot;: &quot;I6366245&quot;,
+      &quot;fullname&quot;: &quot;Pappas, Matthew (Stud. DACS)&quot;
+    }
+  }
+}</component>
+  <component name="GitLabMergeRequestsSettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;first&quot;: &quot;https://gitlab.maastrichtuniversity.nl/group7/transitor.git&quot;,
+    &quot;second&quot;: &quot;03ae2fad-d109-4f70-9d9d-687e0a74625c&quot;
+  }
+}</component>
+  <component name="JsBowerSettings">
+    <bower-package value="" />
+    <bower.json value="" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2drTimOiNSYVFBrO8m1HRx2dPgX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.DataGetter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.mapGUI.executor&quot;: &quot;Run&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;JUnit.DistanceCalculatorTest.testCalculateDistance.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.map.html.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Jan5&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/geveg/OneDrive/Desktop/schoo/transitor/lib/mysql-connector-j-8.3.0.jar&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.JavaFX&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="Push.Settings">
+    <force-push-targets>
+      <force-push-target remote-path="origin" branch="sqlQueryTest" />
+    </force-push-targets>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\geveg\OneDrive\Desktop\schoo\transitor\lib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.mapGUI">
+    <configuration name="mapGUI" type="Application" factoryName="Application" nameIsGenerated="true">
+      <envs>
+        <env name="DB_USERNAME" value="root" />
+        <env name="DB_PASSWORD" value="Jatzunk91" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="Gui.mapGUI" />
+      <module name="transitor" />
+      <option name="VM_PARAMETERS" value="--module-path $USER_HOME$/Downloads/javafx-sdk-21.0.1/lib --add-modules javafx.controls,javafx.fxml,javafx.web " />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Gui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DistanceCalculatorTest.testCalculateDistance" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="transitor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Test" />
+      <option name="MAIN_CLASS_NAME" value="Test.DistanceCalculatorTest" />
+      <option name="METHOD_NAME" value="testCalculateDistance" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.mapGUI" />
+      <item itemvalue="JUnit.DistanceCalculatorTest.testCalculateDistance" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DistanceCalculatorTest.testCalculateDistance" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.15989.150" />
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-IU-241.15989.150" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b700896-7dee-405c-8b3c-2e421fae2747" name="Changes" comment="" />
+      <created>1710765326754</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710765326754</updated>
+      <workItem from="1710765327865" duration="141000" />
+      <workItem from="1713969232926" duration="1349000" />
+      <workItem from="1714301748126" duration="6558000" />
+      <workItem from="1714313432515" duration="1322000" />
+      <workItem from="1714322777511" duration="3258000" />
+      <workItem from="1714408284333" duration="5047000" />
+      <workItem from="1714481616041" duration="6649000" />
+      <workItem from="1714829284099" duration="4298000" />
+      <workItem from="1714845314342" duration="720000" />
+      <workItem from="1715856201386" duration="132000" />
+      <workItem from="1715856338076" duration="51000" />
+      <workItem from="1715856393691" duration="123000" />
+      <workItem from="1715856520531" duration="1569000" />
+      <workItem from="1715859204228" duration="4873000" />
+      <workItem from="1715946709390" duration="702000" />
+      <workItem from="1715968911362" duration="433000" />
+      <workItem from="1715969347981" duration="1031000" />
+      <workItem from="1715970384030" duration="6476000" />
+      <workItem from="1715976883232" duration="492000" />
+      <workItem from="1716291643278" duration="298000" />
+      <workItem from="1716291960360" duration="3338000" />
+      <workItem from="1716452100398" duration="4745000" />
+      <workItem from="1716498034612" duration="87000" />
+      <workItem from="1716498124997" duration="58000" />
+      <workItem from="1716498190206" duration="5000" />
+      <workItem from="1716560288897" duration="4648000" />
+      <workItem from="1716640469418" duration="3490000" />
+      <workItem from="1716650401537" duration="1228000" />
+      <workItem from="1716652573082" duration="293000" />
+      <workItem from="1716653062539" duration="414000" />
+      <workItem from="1716716366211" duration="11000" />
+      <workItem from="1716742070901" duration="2145000" />
+      <workItem from="1716815982848" duration="4288000" />
+      <workItem from="1716835555124" duration="2649000" />
+      <workItem from="1716838212417" duration="3955000" />
+      <workItem from="1717000042292" duration="224000" />
+      <workItem from="1717000785082" duration="604000" />
+      <workItem from="1717056304587" duration="282000" />
+      <workItem from="1717951971956" duration="1162000" />
+      <workItem from="1717954398918" duration="1129000" />
+      <workItem from="1718019571846" duration="7262000" />
+      <workItem from="1718121645359" duration="301000" />
+      <workItem from="1718214384539" duration="1126000" />
+      <workItem from="1718737655139" duration="7542000" />
+      <workItem from="1719153059101" duration="4144000" />
+      <workItem from="1719160834194" duration="3549000" />
+    </task>
+    <task id="LOCAL-00001" summary="working on pulling from mysql">
+      <option name="closed" value="true" />
+      <created>1714311916441</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1714311916441</updated>
+    </task>
+    <task id="LOCAL-00002" summary="working on pulling from mysql">
+      <option name="closed" value="true" />
+      <created>1714432008878</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1714432008878</updated>
+    </task>
+    <task id="LOCAL-00003" summary="working on pulling from mysql">
+      <option name="closed" value="true" />
+      <created>1714496190328</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1714496190328</updated>
+    </task>
+    <task id="LOCAL-00004" summary="woof meow meow woof woof">
+      <option name="closed" value="true" />
+      <created>1714838161315</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1714838161315</updated>
+    </task>
+    <task id="LOCAL-00005" summary="woof meow meow woof woof">
+      <option name="closed" value="true" />
+      <created>1714838416980</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1714838416980</updated>
+    </task>
+    <task id="LOCAL-00006" summary="woof meow meow woof woof">
+      <option name="closed" value="true" />
+      <created>1714845201503</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1714845201503</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Merge remote-tracking branch 'origin/sqlQueryTest' into sqlQueryTest&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;src/Data/DataGetter.java">
+      <option name="closed" value="true" />
+      <created>1715949130531</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1715949130532</updated>
+    </task>
+    <task id="LOCAL-00008" summary="DataGetter now uses new TripCoordinates class to fetch the coordinates from the bus stops result set, and prints them along with the stop name.">
+      <option name="closed" value="true" />
+      <created>1715949242140</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1715949242140</updated>
+    </task>
+    <task id="LOCAL-00009" summary="added deletion methods for stops and stop_times">
+      <option name="closed" value="true" />
+      <created>1716294533517</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1716294533517</updated>
+    </task>
+    <task id="LOCAL-00010" summary="added deletion methods for trips and routes">
+      <option name="closed" value="true" />
+      <created>1716295663642</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1716295663642</updated>
+    </task>
+    <task id="LOCAL-00011" summary="added deletion methods for trips and routes">
+      <option name="closed" value="true" />
+      <created>1716376378804</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1716376378804</updated>
+    </task>
+    <task id="LOCAL-00012" summary="error handling for incorrect postal code, plus working on adding departure and arrival pins as well">
+      <option name="closed" value="true" />
+      <created>1716459572296</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1716459572296</updated>
+    </task>
+    <task id="LOCAL-00013" summary="error handling for incorrect postal code, plus working on adding departure and arrival pins as well">
+      <option name="closed" value="true" />
+      <created>1716459588841</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1716459588841</updated>
+    </task>
+    <task id="LOCAL-00014" summary="error handling for incorrect postal code, plus working on adding departure and arrival pins as well">
+      <option name="closed" value="true" />
+      <created>1716459599183</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1716459599183</updated>
+    </task>
+    <task id="LOCAL-00015" summary="added a time input (trying to figure out how to display it)">
+      <option name="closed" value="true" />
+      <created>1716649422144</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1716649422144</updated>
+    </task>
+    <task id="LOCAL-00016" summary="added a time input fully functional">
+      <option name="closed" value="true" />
+      <created>1716651583213</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1716651583213</updated>
+    </task>
+    <task id="LOCAL-00017" summary="added a time input fully functional">
+      <option name="closed" value="true" />
+      <created>1716652849338</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1716652849338</updated>
+    </task>
+    <task id="LOCAL-00018" summary="added a time input fully functional">
+      <option name="closed" value="true" />
+      <created>1716653084836</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1716653084836</updated>
+    </task>
+    <task id="LOCAL-00019" summary="added some COOL stuff">
+      <option name="closed" value="true" />
+      <created>1716819034746</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1716819034746</updated>
+    </task>
+    <task id="LOCAL-00020" summary="added some COOL stuff">
+      <option name="closed" value="true" />
+      <created>1716833116467</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1716833116467</updated>
+    </task>
+    <task id="LOCAL-00021" summary="API worky smiley face">
+      <option name="closed" value="true" />
+      <created>1716833379272</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1716833379272</updated>
+    </task>
+    <task id="LOCAL-00022" summary="meow meow meow">
+      <option name="closed" value="true" />
+      <created>1716834201983</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1716834201983</updated>
+    </task>
+    <task id="LOCAL-00023" summary="updated README.md">
+      <option name="closed" value="true" />
+      <created>1716895325222</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1716895325222</updated>
+    </task>
+    <task id="LOCAL-00024" summary="finalizing changes">
+      <option name="closed" value="true" />
+      <created>1716899004465</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1716899004465</updated>
+    </task>
+    <task id="LOCAL-00025" summary="donezo mcfunzo pt3">
+      <option name="closed" value="true" />
+      <created>1717000210582</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1717000210582</updated>
+    </task>
+    <task id="LOCAL-00026" summary="query fixed">
+      <option name="closed" value="true" />
+      <created>1717953826357</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1717953826357</updated>
+    </task>
+    <task id="LOCAL-00027" summary="query fixed but fr this time">
+      <option name="closed" value="true" />
+      <created>1718121739996</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1718121739996</updated>
+    </task>
+    <task id="LOCAL-00028" summary="transfer trips visualization almost done">
+      <option name="closed" value="true" />
+      <created>1718739923790</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1718739923792</updated>
+    </task>
+    <task id="LOCAL-00029" summary="added AccessibilityScoreCalculator class so i can start working on it">
+      <option name="closed" value="true" />
+      <created>1718834067491</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1718834067491</updated>
+    </task>
+    <task id="LOCAL-00030" summary="implemented a drawing method for dijkstra">
+      <option name="closed" value="true" />
+      <created>1719092091555</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1719092091555</updated>
+    </task>
+    <task id="LOCAL-00031" summary="final changes after merge">
+      <option name="closed" value="true" />
+      <created>1719092387359</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1719092387359</updated>
+    </task>
+    <task id="LOCAL-00032" summary="fixed greedy">
+      <option name="closed" value="true" />
+      <created>1719140967533</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1719140967533</updated>
+    </task>
+    <task id="LOCAL-00033" summary="fixed greedy display properly">
+      <option name="closed" value="true" />
+      <created>1719142154535</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1719142154535</updated>
+    </task>
+    <task id="LOCAL-00034" summary="M\EOWWWWWW MEOW MEOW MEOWWW">
+      <option name="closed" value="true" />
+      <created>1719165384297</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1719165384297</updated>
+    </task>
+    <task id="LOCAL-00035" summary="this is the save point">
+      <option name="closed" value="true" />
+      <created>1719168080058</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1719168080058</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="woof meow meow woof woof" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/sqlQueryTest' into sqlQueryTest&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;src/Data/DataGetter.java" />
+    <MESSAGE value="DataGetter now uses new TripCoordinates class to fetch the coordinates from the bus stops result set, and prints them along with the stop name." />
+    <MESSAGE value="added deletion methods for stops and stop_times" />
+    <MESSAGE value="added deletion methods for trips and routes" />
+    <MESSAGE value="error handling for incorrect postal code, plus working on adding departure and arrival pins as well" />
+    <MESSAGE value="error for no direct route added" />
+    <MESSAGE value="added a time input (trying to figure out how to display it)" />
+    <MESSAGE value="added a time input fully functional" />
+    <MESSAGE value="added some COOL stuff" />
+    <MESSAGE value="API worky smiley face" />
+    <MESSAGE value="meow meow meow" />
+    <MESSAGE value="updated README.md" />
+    <MESSAGE value="finalizing changes" />
+    <MESSAGE value="donezo mcfunzo pt3" />
+    <MESSAGE value="query fixed" />
+    <MESSAGE value="query fixed but fr this time" />
+    <MESSAGE value="transfer trips visualization almost done" />
+    <MESSAGE value="added AccessibilityScoreCalculator class so i can start working on it" />
+    <MESSAGE value="implemented a drawing method for dijkstra" />
+    <MESSAGE value="final changes after merge" />
+    <MESSAGE value="fixed greedy" />
+    <MESSAGE value="fixed greedy display properly" />
+    <MESSAGE value="M\EOWWWWWW MEOW MEOW MEOWWW" />
+    <MESSAGE value="this is the save point" />
+    <option name="LAST_COMMIT_MESSAGE" value="this is the save point" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="netscape.javascript.JSException" package="netscape.javascript" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

@@ -1,0 +1,43 @@
+<component name="libraryTable">
+  <library name="byte-buddy-1.10.14">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/byte-buddy-1.10.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/byte-buddy-agent-1.10.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-logging-1.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/graphhopper-web-8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hamcrest-core-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/httpclient-4.5.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/httpcore-4.4.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-annotations-2.17.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-core-2.17.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-databind-2.17.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jacocoagent.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jacocoant.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jacococli.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-swt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx.base.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx.controls.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx.fxml.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx.graphics.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx.media.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx.swing.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx.web.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jgrapht-core-1.5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/junit-4.13.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/junit-platform-console-standalone-1.11.0-M2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mockito-core-3.12.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mysql-connector-j-8.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/objenesis-3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/openjfx-monocle-jdk-11+26.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.jacoco.agent-0.8.7-runtime.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.jacoco.agent-0.8.12.202403310830.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.jacoco.ant-0.8.12.202403310830.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.jacoco.core-0.8.12.202403310830.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.jacoco.report-0.8.12.202403310830.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/testfx-core-4.0.16-alpha.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/testfx-junit5-4.0.16-alpha.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
