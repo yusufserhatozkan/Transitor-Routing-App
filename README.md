@@ -6,15 +6,12 @@
 
 2. **Configure Database Connection**
     - Open the `DatabaseSingleton` class.
-    - Update **lines 16–18** with your own MySQL credentials (host, username, password).
+    - Update **lines 16, 17 and 18** with your own MySQL credentials (host, username, password).
 
 3. **Initial Data Cleanup**
-    - On the first launch, call the `cleanData` method from `dataGetter` in the `mapGUI.main` method.
-      ```java
-      dataGetter.cleanData();
-      ```
+    - On the first launch, call the `cleanData` method from `dataGetter` in the `mapGUI.main` method: `dataGetter.cleanData();`
     - This process cleans up excess data to improve query performance.
-    - **Important**: `cleanData` can be slow. Once you've run it once, comment it out or remove it from `main` to avoid delays on future runs.
+    - **Important**: Running `cleanData` takes some time, so after you have used it to clear your database, you should remove it from the `main` method for future launches to speed up the startup process.
 
 ## Running the Application
 
