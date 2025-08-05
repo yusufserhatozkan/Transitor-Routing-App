@@ -1,14 +1,14 @@
 ## Application Setup
 
-1. ** Download GTFS Data**
+1. **Download GTFS Data**
     - Download the `GTFS.zip` file for the Netherlands.
     - Import the data into your local MySQL database.
 
-2. ** Configure Database Connection**
+2. **Configure Database Connection**
     - Open the `DatabaseSingleton` class.
     - Update **lines 16–18** with your own MySQL credentials (host, username, password).
 
-3. ** Initial Data Cleanup**
+3. **Initial Data Cleanup**
     - On the first launch, call the `cleanData` method from `dataGetter` in the `mapGUI.main` method.
       ```java
       dataGetter.cleanData();
