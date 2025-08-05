@@ -19,18 +19,15 @@
 ## Running the Application
 
 1. **Launch**
-    - Run the `main` method in the `mapGUI` class.
+    - Run the `main` method in the `mapGUI` class to launch the application.
 
 2. **Usage**
-    - Input two valid postcodes from the **Maastricht region**.
-    - If invalid postcodes are entered, an error will be displayed.
-    - If you receive an API error when fetching coordinates, try switching to:
-      ```
-      https://project12.ashish.nl/get_coordinates
-      ```
+    - The application allows you to input two postcodes. It only accepts postcodes within the vicinity of Maastricht.
+    - If you do not input appropriate postcodes, it will display an error message.
+    - Note: If the API throws an error, you may wish to look for an alternative API to call from. Try `https://project12.ashish.nl/get_coordinates`.
 
 ## That's It
 
 The application should now be ready to use for exploring public transport routes.
 
-## Enjoy
+## Enjoy!
